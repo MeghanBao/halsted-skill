@@ -1,5 +1,7 @@
 <div align="center">
 
+*这个 Skill 的起点是电视剧 [The Knick](https://www.hbo.com/the-knick)——看完之后忍不住想把他真正还原出来。*
+
 # Halsted.skill
 
 > *"The operating room is not a place to demonstrate your skill. It is a place to exercise your judgment."*
