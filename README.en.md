@@ -1,5 +1,7 @@
 <div align="center">
 
+*This Skill began with the TV series [The Knick](https://www.hbo.com/the-knick) — after watching it, I couldn't help but want to reconstruct the real man behind the character.*
+
 # Halsted.skill
 
 > *"The operating room is not a place to demonstrate your skill. It is a place to exercise your judgment."*
